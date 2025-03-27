@@ -1,23 +1,16 @@
-<h2 align="left">NickTheCreator</h2>
+<h1 align="left">👨🏽‍💻 NickTheCreator</h1>
 
 ###
+<details>
+<summary><h3 aling="left">❓ About me</h3></summary>
+Hi there! 👋 I am a developer enthusiast with a strong interest in becoming a full-stack developer, with long-term aspirations in becoming a DevOps and cybersecurity professional. <br>
+I have a diverse set of interests, including coding, robotic engineering, machine learning, virtual reality and internet infrastructure.<br> 
+I believe in continuous learning and i am always eager to explore new technologies and tools.
+</details>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NickTheCreator&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NickTheCreator&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+---
 
-###
-
-<br clear="both">
-
-<div align="center">
-  <img height="136" src="https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif?cid=790b7611gk9jiiobka8p9mm0b2eph4muhfqd9dk79zwysutu&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-</div>
-
---- 
-
-### Languages and tools
+### 🧰 Languages and tools
 
 <br clear="both">
 
@@ -44,8 +37,25 @@
 </div>
 
 -
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NickTheCreator&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NickTheCreator&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="160" alt="languages graph" />
+  <img height="160" src="https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif?cid=790b7611gk9jiiobka8p9mm0b2eph4muhfqd9dk79zwysutu&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
+</div>
+
+
+###
 
 <br clear="both">
+--- 
+
+-
+
+<br clear="both">
+
+### 🔗 Links
 
 <div align="center">
   <a href="mailto:nicolafranca171@gmail.com" target="_blank">
