@@ -48,15 +48,9 @@
 </div>
 
 ###
+<img align="right" height="200" src="https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif?cid=790b7611gk9jiiobka8p9mm0b2eph4muhfqd9dk79zwysutu&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
-<img align="right" height="136" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExajZzanA5YXE2d3BpcTF0dG95d3d0OWR5a2tmZnJmdXJicmUxbDVmYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JT5zjBhsdeNftDvZRC/giphy.gif"  />
 
 ###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NickTheCreator/NickTheCreator/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NickTheCreator/NickTheCreator/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NickTheCreator/NickTheCreator/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
