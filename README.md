@@ -1,59 +1,62 @@
-- 👋 Hi, I’m Nick
-- 👀 I’m interested in coding, self-development, games
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: nicolafranca171@gmail.com
-- ⚡ Fun fact: ...
+<h2 align="left">Hi 👋! My name is Nicola, mostly known as Nick.</h2>
 
-<!---
-NickTheCreator/NickTheCreator is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NickTheCreator&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NickTheCreator&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
+###
 
-![Email Icon](your-icon-url)
-[Email me](mailto:nicolafranca171@gmail.com)
+<br clear="both">
 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="30" alt="html5 logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height="30" alt="firefox logo"  />
+</div>
 
+###
 
+<br clear="both">
 
--------------------------------------------
--------------------------------------------
--------------------------------------------
+<div align="center">
+  <a href="mailto:nicolafranca171@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
+  </a>
+  <a href="www.linkedin.com/in/nicola-de-oliveira" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="tryhackme logo"  />
+</div>
 
-# Hello, I'm [Your Name]! 👋
+###
 
-Welcome to my GitHub profile. I'm a passionate software developer who loves coding and building awesome projects. I specialize in [technologies you're focused on, like JavaScript, Python, etc.] and love solving complex problems.
+<img align="right" height="136" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExajZzanA5YXE2d3BpcTF0dG95d3d0OWR5a2tmZnJmdXJicmUxbDVmYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JT5zjBhsdeNftDvZRC/giphy.gif"  />
 
-## 🛠️ Technologies & Tools
+###
 
-- **Languages**: JavaScript, Python, C++, Java, etc.
-- **Frontend**: React, HTML, CSS, Bootstrap, etc.
-- **Backend**: Node.js, Express, Django, etc.
-- **Database**: MongoDB, MySQL, PostgreSQL, etc.
-- **Tools**: Git, Docker, VSCode, etc.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NickTheCreator/NickTheCreator/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NickTheCreator/NickTheCreator/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NickTheCreator/NickTheCreator/output/pacman-contribution-graph.svg">
+</picture>
 
-## 🚀 Projects & Work
-
-Here are a few projects I've worked on:
-
-- [Project 1 Name](link-to-project): A short description of what this project is about.
-- [Project 2 Name](link-to-project): A short description of what this project is about.
-- [Project 3 Name](link-to-project): A short description of what this project is about.
-
-Feel free to check out my repositories to explore more!
-
-## 📧 Contact Me
-
-- 📧 [Email me](mailto:your-email@gmail.com)
-- 🔗 [LinkedIn](your-linkedin-url)
-- 🐦 [Twitter](your-twitter-url)
-
-## 🌱 Fun Facts
-
-- I love hiking and photography when I'm not coding.
-- I'm always learning and experimenting with new tech.
-- I'm currently reading [book you're reading].
-
-Thanks for visiting my profile! 🚀
+###
