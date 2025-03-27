@@ -15,11 +15,9 @@
   <img height="136" src="https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif?cid=790b7611gk9jiiobka8p9mm0b2eph4muhfqd9dk79zwysutu&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 </div>
 
-###
+--- 
 
-<p align="left">Languages and tools</p>
-
-###
+### Languages and tools
 
 <br clear="both">
 
@@ -45,7 +43,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height="30" alt="firefox logo"  />
 </div>
 
-###
+-
 
 <br clear="both">
 
