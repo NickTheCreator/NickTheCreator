@@ -1,7 +1,6 @@
-<h1 align="left">Hi 👋! My name is Nicola, mostly known as Nick.</h1>
+<h2 align="left">NickTheCreator</h2>
 
 ###
-
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NickTheCreator&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -12,7 +11,18 @@
 
 <br clear="both">
 
-Languages and tools
+<div align="center">
+  <img height="136" src="https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif?cid=790b7611gk9jiiobka8p9mm0b2eph4muhfqd9dk79zwysutu&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+</div>
+
+###
+
+<p align="left">Languages and tools</p>
+
+###
+
+<br clear="both">
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="15" />
@@ -39,7 +49,6 @@ Languages and tools
 
 <br clear="both">
 
-Links
 <div align="center">
   <a href="mailto:nicolafranca171@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
@@ -50,9 +59,4 @@ Links
   <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="tryhackme logo"  />
 </div>
 
-
-<img align="center" height="200" src="https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif?cid=790b7611gk9jiiobka8p9mm0b2eph4muhfqd9dk79zwysutu&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-
-
-
-
+###
