@@ -32,8 +32,8 @@
 
 [![Nick's GitHub stats](https://github-stats-extended.vercel.app/api?username=nickthecreator&show_icons=true&theme=rose_pine)](https://github.com/stats-organization/github-stats-extended)
 ![Nick's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nickthecreator&theme=rose_pine)
-<img height="190em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nickthecreator&theme=rose_pine">
-<img height="190em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nickthecreator&theme=rose_pine">
+<img height="175em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nickthecreator&theme=rose_pine">
+<img height="175em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nickthecreator&theme=rose_pine">
 <br>
 <footer>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer&customColorList=1">
