@@ -7,7 +7,11 @@
 <table style="border-collapse: collapse; width: 100%;">
   <tr>
     <td style="border: none; padding-right: 20px;">
-      Hi there! 👋 I am a developer enthusiast with a strong interest in becoming a full-stack developer, with long-term aspirations in becoming a DevOps and cybersecurity professional.<br><br>I have a diverse set of interests, including coding, robotic engineering, machine learning, virtual reality and internet infrastructure.<br><br>I believe in continuous learning and i am always eager to explore new technologies and tools.
+      Web developer, automation enthusiast, and hardware tinkerer. ⚙️ <br>
+      My interests span from network infrastructure and hardware maintenance to web development <br>
+      If it can be optimized, scripted, or rebuilt, I’m probably interested in it. 🤖 <br>
+      Right now I’m learning React.js and having fun building more dynamic interfaces. <br>
+      Always curious, always building. 🚀 <br>
     </td>
     <td style="border: none; width: 200px;">
       <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGM3MmF3bWEzaTd4ODNvdXVqcGcwN2U5dWJ5djBuOTF0YjgyZWl4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sZPQXNBBN7mbDALod9/giphy.gif" width="200" alt="Developer GIF">
